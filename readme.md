@@ -1,11 +1,9 @@
-# Estimating required ‘lockdown’ cycles before immunity to SARS-CoV-2: 
-Model-based analyses of susceptible population sizes, ‘S0’, in seven European countries including the UK and Ireland 
+# Estimating required ‘lockdown’ cycles before immunity to SARS-CoV-2: Model-based analyses of susceptible population sizes, ‘S0’, in seven European countries including the UK and Ireland 
+
+By Rosalyn J. Moran, Erik D. Fagerholm, Maell Cullen, Jean Daunizeau, Mark P. Richardson, Steven Williams, Federico Turkheimer, Rob Leech, Karl J. Friston
 
 
-Rosalyn J. Moran, Erik D. Fagerholm, Maell Cullen, Jean Daunizeau, Mark P. Richardson, Steven Williams, Federico Turkheimer, Rob Leech, Karl J. Friston
-
-
-![](ims/Picture1.png)
+![](ims/Picture3.png)
 
 *Model predictions of daily reported case rates across countries. 
 
