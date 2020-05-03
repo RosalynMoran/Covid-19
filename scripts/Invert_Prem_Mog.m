@@ -19,7 +19,7 @@ for countries = 1:7
     U.u     = zeros(length(acc_deaths),1);
     U.dt    = 1;
     
-    [M, P] = Prem_Mog_model;
+    [M, P] = Prem_Mog_model(countries);
     
     [Ep,Cp,Eh,F,L,dFdp,dFdpp] = spm_nlsi_GN(M,U,Y);
     
